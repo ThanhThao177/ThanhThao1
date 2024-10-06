@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/drawable/custom_button.xml" value="0.1345" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/drawable/custom_edittext.xml" value="0.147" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.131" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/drawable/ic_round_account_circle_24.xml" value="0.131" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/activity_doimk.xml" value="0.21296296296296297" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/activity_main.xml" value="0.17592592592592593" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/dialog_add_khach_hang.xml" value="0.2064814814814815" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/dialog_dich_vu.xml" value="0.1484375" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/dialog_don_dich_vu.xml" value="0.2064814814814815" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/dialog_loai_phong.xml" value="0.25" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/dialog_them_hoa_don.xml" value="0.25" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/dialog_them_phong.xml" value="0.2212962962962963" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/fragment_1.xml" value="0.25" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/fragment_3.xml" value="0.1" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/fragment_dich_vu.xml" value="0.2359375" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/fragment_doimatkhau.xml" value="0.13854166666666667" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/fragment_don_dich_vu.xml" value="0.2" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/fragment_hoa_don.xml" value="0.2" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/fragment_khachhang.xml" value="0.21388888888888888" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/fragment_loai_phong.xml" value="0.2359375" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/fragment_phong.xml" value="0.1" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/fragment_tab_dich_vu.xml" value="0.1" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/fragment_tab_phong.xml" value="0.25" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/fragment_thongke.xml" value="0.25" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/item_dich_vu.xml" value="0.14351851851851852" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/item_hoadon.xml" value="0.264" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/item_khach_hang.xml" value="0.12129629629629629" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/item_khach_hang_spinner.xml" value="0.1" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/item_loai_phong_spinner.xml" value="0.1" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/item_phong.xml" value="0.14351851851851852" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/item_phong_spinner.xml" value="0.1" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/item_sideshow.xml" value="0.14635416666666667" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/item_signin.xml" value="0.14635416666666667" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/layout/item_signup.xml" value="0.14635416666666667" />
+        <entry key="..\:/#HocTap/PRO1121(DuAn1)/Lovely_Hotel/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Du_an_1/PRO1121_Lovely_Hotel/app/src/main/res/drawable/custom_button.xml" value="0.112" />
+        <entry key="..\:/Du_an_1/PRO1121_Lovely_Hotel/app/src/main/res/drawable/custom_dialog.xml" value="0.112" />
+        <entry key="..\:/Du_an_1/PRO1121_Lovely_Hotel/app/src/main/res/drawable/custom_edittext.xml" value="0.112" />
+        <entry key="..\:/Du_an_1/PRO1121_Lovely_Hotel/app/src/main/res/drawable/custom_textview.xml" value="0.112" />
+        <entry key="..\:/Du_an_1/PRO1121_Lovely_Hotel/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Du_an_1/PRO1121_Lovely_Hotel/app/src/main/res/layout/dialog_add_khach_hang.xml" value="0.16666666666666666" />
+        <entry key="..\:/Du_an_1/PRO1121_Lovely_Hotel/app/src/main/res/layout/dialog_don_dich_vu.xml" value="0.17552083333333332" />
+        <entry key="..\:/Du_an_1/PRO1121_Lovely_Hotel/app/src/main/res/layout/fragment_1.xml" value="0.17552083333333332" />
+        <entry key="..\:/Du_an_1/PRO1121_Lovely_Hotel/app/src/main/res/layout/fragment_doimatkhau.xml" value="0.17552083333333332" />
+        <entry key="..\:/Du_an_1/PRO1121_Lovely_Hotel/app/src/main/res/layout/fragment_don_dich_vu.xml" value="0.17552083333333332" />
+        <entry key="..\:/Du_an_1/PRO1121_Lovely_Hotel/app/src/main/res/layout/fragment_khachhang.xml" value="0.17552083333333332" />
+        <entry key="..\:/Du_an_1/PRO1121_Lovely_Hotel/app/src/main/res/layout/fragment_loai_phong.xml" value="0.17552083333333332" />
+        <entry key="..\:/Du_an_1/PRO1121_Lovely_Hotel/app/src/main/res/layout/fragment_thongke.xml" value="0.22" />
+        <entry key="..\:/Du_an_1/PRO1121_Lovely_Hotel/app/src/main/res/layout/item_khach_hang.xml" value="0.22" />
+        <entry key="..\:/Du_an_1/PRO1121_Lovely_Hotel/app/src/main/res/layout/item_phong.xml" value="0.16666666666666666" />
+        <entry key="..\:/Du_an_1/PRO1121_Lovely_Hotel/app/src/main/res/layout/item_sideshow.xml" value="0.17552083333333332" />
+        <entry key="..\:/Du_an_1/PRO1121_Lovely_Hotel/app/src/main/res/layout/item_signin.xml" value="0.17552083333333332" />
+        <entry key="..\:/Du_an_1/PRO1121_Lovely_Hotel/app/src/main/res/layout/item_signup.xml" value="0.17552083333333332" />
+        <entry key="..\:/Du_an_1/PRO1121_Lovely_Hotel/app/src/main/res/menu/menu.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/ACER NITRO 5/Desktop/PRO1121/PRO1121_Lovely_Hotel/app/src/main/res/layout/dialog_them_hoa_don.xml" value="0.17401215805471124" />
+        <entry key="..\:/Users/ACER NITRO 5/Desktop/PRO1121/PRO1121_Lovely_Hotel/app/src/main/res/layout/fragment_don_dich_vu.xml" value="0.18229166666666666" />
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+        <entry key="..\:/Users/ACER NITRO 5/Desktop/PRO1121/PRO1121_Lovely_Hotel/app/src/main/res/layout/fragment_loai_phong.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/ACER NITRO 5/Desktop/PRO1121/PRO1121_Lovely_Hotel/app/src/main/res/layout/item_loai_phong.xml" value="0.192481884057971" />
+        <entry key="..\:/Users/ACER NITRO 5/Desktop/PRO1121/PRO1121_Lovely_Hotel/app/src/main/res/layout/item_phong.xml" value="0.192481884057971" />
+        <entry key="..\:/Users/hi/Android2/Du_an_1/PRO1121_Lovely_Hotel/app/src/main/res/layout/dialog_don_dich_vu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/hi/Android2/Du_an_1/PRO1121_Lovely_Hotel/app/src/main/res/layout/dialog_loai_dich_vu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/hi/Android2/Du_an_1/PRO1121_Lovely_Hotel/app/src/main/res/layout/dialog_loai_phong.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/hi/Android2/Du_an_1/PRO1121_Lovely_Hotel/app/src/main/res/layout/fragment_dich_vu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/hi/Android2/Du_an_1/PRO1121_Lovely_Hotel/app/src/main/res/layout/fragment_don_dich_vu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/hi/Android2/Du_an_1/PRO1121_Lovely_Hotel/app/src/main/res/layout/item_don_dich_vu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/hi/Android2/Du_an_1/PRO1121_Lovely_Hotel/app/src/main/res/layout/item_loai_dich_vu.xml" value="0.253125" />
+        <entry key="..\:/Users/hi/Android2/Du_an_1/PRO1121_Lovely_Hotel/app/src/main/res/layout/item_loai_phong.xml" value="0.25416666666666665" />
+=======
+>>>>>>> f93e727fd84c26c3b1208091d9024c8a718a2136
+=======
+>>>>>>> f93e727fd84c26c3b1208091d9024c8a718a2136
+=======
+>>>>>>> f93e727fd84c26c3b1208091d9024c8a718a2136
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
